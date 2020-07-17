@@ -1,0 +1,27 @@
+# cranhistory
+
+<!-- badges: start -->
+[![R build status](https://github.com/mpadge/cranhistory/workflows/R-CMD-check/badge.svg)](https://github.com/mpadge/cranhistory/actions)
+<!-- badges: end -->
+
+An R package for Statistical Analysis of R Packages over Time
+
+## Installation
+
+Can be installed from remote repository host systems using any one of the
+following options:
+```{r gh-installation, eval = FALSE}
+# install.packages("remotes")
+remotes::install_git("https://git.sr.ht/~mpadge/cranhistory")
+remotes::install_bitbucket("mpadge/cranhistory")
+remotes::install_gitlab("mpadge/cranhistory")
+remotes::install_github("mpadge/cranhistory")
+```
+
+The package can then be loaded the usual way:
+```{r load-fakey, eval = FALSE}
+library (cranhistory)
+```
+```{r load, echo = FALSE, message = FALSE}
+devtools::load_all (".", export_all = FALSE)
+```

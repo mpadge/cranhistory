@@ -1,0 +1,43 @@
+{
+  "@context": [
+    "https://doi.org/10.5063/schema/codemeta-2.0",
+    "http://schema.org"
+  ],
+  "@type": "SoftwareSourceCode",
+  "identifier": "cranhistory",
+  "description": "Statistical analysis of R packages over time.",
+  "name": "cranhistory: Statistical Analysis of R Packages over Time",
+  "codeRepository": "https://github.com/mpadge/cranhistory",
+  "issueTracker": "https://github.com/mpadge/cranhistory/issues",
+  "license": "https://spdx.org/licenses/MIT",
+  "version": "0.0.0.1",
+  "programmingLanguage": {
+    "@type": "ComputerLanguage",
+    "name": "R",
+    "version": "4.0.2",
+    "url": "https://r-project.org"
+  },
+  "runtimePlatform": "R version 4.0.2 (2020-06-22)",
+  "author": [
+    {
+      "@type": "Person",
+      "givenName": "Mark",
+      "familyName": "Padgham",
+      "email": "mark.padgham@email.com"
+    }
+  ],
+  "contributor": {},
+  "copyrightHolder": {},
+  "funder": {},
+  "maintainer": [
+    {
+      "@type": "Person",
+      "givenName": "Mark",
+      "familyName": "Padgham",
+      "email": "mark.padgham@email.com"
+    }
+  ],
+  "softwareSuggestions": [],
+  "softwareRequirements": [],
+  "fileSize": "1.34KB"
+}

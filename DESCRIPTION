@@ -1,0 +1,16 @@
+Package: cranhistory
+Title: Statistical Analysis of R Packages over Time
+Version: 0.0.0.1
+Authors@R: 
+    person(given = "Mark",
+           family = "Padgham",
+           role = c("aut", "cre"),
+           email = "mark.padgham@email.com")
+Description: Statistical analysis of R packages over time.
+License: MIT + file LICENSE
+URL: https://github.com/mpadge/cranhistory
+BugReports: https://github.com/mpadge/cranhistory/issues
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
