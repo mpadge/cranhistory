@@ -6,7 +6,7 @@
 Concept](https://www.repostatus.org/badges/latest/concept.svg)](https://www.repostatus.org/#concept)
 <!-- badges: end -->
 
-An R package for Statistical Analysis of R Packages over Time
+An R package for Statistical Analyses of R Packages over Time
 
 ## Installation
 

@@ -1,6 +1,6 @@
 Package: cranhistory
 Title: Statistical Analysis of R Packages over Time
-Version: 0.0.0.002
+Version: 0.0.0.003
 Authors@R: 
     person(given = "Mark",
            family = "Padgham",
