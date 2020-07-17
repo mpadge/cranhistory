@@ -4,6 +4,8 @@
 
 [![R build
 status](https://github.com/mpadge/cranhistory/workflows/R-CMD-check/badge.svg)](https://github.com/mpadge/cranhistory/actions)
+[![Project Status:
+Concept](https://www.repostatus.org/badges/latest/concept.svg)](https://www.repostatus.org/#concept)
 <!-- badges: end -->
 
 An R package for Statistical Analysis of R Packages over Time
