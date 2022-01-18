@@ -1,3 +1,4 @@
+:no_entry:ARCHIVED; continued at [ropensci-review-tools/pkgstats](https://github.com/ropensci-review-tools/pkgstats):no_entry:
 # cranhistory
 
 <!-- badges: start -->
